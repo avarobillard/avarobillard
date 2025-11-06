@@ -1,10 +1,11 @@
 ## Hi! I'm Ava Robillard 👋
 
-I am an early career data scientist with a background in plant science! 🪷 I am currently pursuing my Master's in Environmental Data Science at the Bren School of Environmental Science & Management to expand my programming skills to broader sustainability challenges. Learn more on my personal website, [avarobillard.github.io](https://avarobillard.github.io/).
+I am an early career data scientist with a background in plant science! 🪷 I am currently pursuing my Master's of Environmental Data Science at the Bren School of Environmental Science & Management to expand my programming skills to broader sustainability challenges. Learn more on my personal website, [avarobillard.github.io](https://avarobillard.github.io/).
 
 ## 📖 Education
-- Master of Environmental Data Science (Expected June 2026)- University of California, Santa Barbara
-- Bachelor of Science in Plant Sciences, Minor in Data Science (2025)- Cornell University
+I graduated from Cornell University with a B.S. in Plant Sciences and a minor in Data Science in May of 2025, where I concentrated in computational biology and did bioinformatics research on the phylogenetics of non-model plant species. 🧬🔬
+
+I am expecting to graduate from the University of California, Santa Barbara with my Master's in June of 2026!
 
 <!--
 **avarobillard/avarobillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
