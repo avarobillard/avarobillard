@@ -1,5 +1,7 @@
 ## Hi! I'm Ava Robillard 👋
 
+I am an early career data scientist with a background in plant science! 🪷 I am currently pursuing my Master's in Environmental Data Science at the Bren School of Environmental Science and Management to expand my programming skills to broader sustainability challenges. Learn more on my personal website, [avarobillard.github.io](https://avarobillard.github.io/).
+
 <!--
 **avarobillard/avarobillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
