@@ -8,9 +8,7 @@ I graduated from **Cornell University with a B.S. in Plant Sciences and a minor 
 I'm expected to graduate from the University of California, Santa Barbara with my Master's degree in June 2026!
 
 ### 💌 Let's connect!
-Email: avamorganr@gmail.com
-
-[Linkedin](https://www.linkedin.com/in/avarobillard/)
+Email me at avamorganr@gmail.com or find me on [Linkedin](https://www.linkedin.com/in/avarobillard/).
 
 <!--
 **avarobillard/avarobillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
